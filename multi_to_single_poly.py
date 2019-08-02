@@ -15,7 +15,7 @@ import os
 import sys
 
 # DEFINE OUTPUT VARIABLE
-new_dict = {"type":"FeatureCollection","features":[]}\
+new_dict = {"type":"FeatureCollection","features":[]}
 
 # ENSURE SCRIPT IS CALLED CORRECTLY
 if len(sys.argv) < 2:
